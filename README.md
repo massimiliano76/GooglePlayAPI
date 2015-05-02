@@ -41,7 +41,7 @@ echo $app->required_version;
 echo $app->icon;
 echo $app->last_updated;
 echo $app->installation_count;
-echo $app->author_name me;
+echo $app->author_name;
 echo $app->author_store_URL;
 echo $app->author_website;
 echo $app->author_email;
