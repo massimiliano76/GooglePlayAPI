@@ -71,4 +71,4 @@ Googleplay::config(['cacheTime' => 600])->app("APP_URL")->title;
 
 ## Contribute
 
-https://github.com/rachidlaasri/googleplayapi
+https://github.com/rachidlaasri/googleplayapi/pulls
