@@ -59,7 +59,7 @@ foreach($app->screenshots as $screenshot)
 Googleplay::config([
     'saveImages' => false,  // Save images to local.
     'imagesDir' => './images/', // Path to save images to.
-    '$tempDir' => './temp/', // Cache folder.
+    'tempDir' => './temp/', // Cache folder.
     'cacheTime' => 120 // Cache time per seconds.
 ]);
 
